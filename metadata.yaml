@@ -1,0 +1,31 @@
+_repo: Mnaa-ja-Tasala-Vilkk-ja-Hakkri-Iiro-Raumlaissi-jaarituksi_53657
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nortamo, Hjalmar
+    aliases:
+    - Nordling, Frans Hjalmar
+    - Nortamo, Hj. (Hjalmar)
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '47480'
+    url: http://www.gutenberg.org/2009/agents/47480
+description: ''
+gutenberg_issued: '2016-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53657'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish wit and humor'
+- GITenberg
+tableOfContents: Antonim bäev -- Tasala Vilkun berindraha -- Tasala Vilkun gäändmys
+  paremppa elämähä -- Kui Hakkri Iiro meijän belast saksan giälen daidollas -- Kuit
+  Tasala Vilkk ja Hakkri Iiro viäkottliiva mnuu uude veisun dekemä -- Tasala Vilkk
+  pauha meillp pyssyist.
+title: 'Mnää ja Tasala Vilkk ja Hakkri Iiro: Raumlaissi jaarituksi'
+url: http://www.gutenberg.org/ebooks/53657
